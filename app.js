@@ -1,5 +1,5 @@
 // Update this with your actual API Gateway endpoint
-const API_URL = "https://tmt63x2hr3.execute-api.ap-south-1.amazonaws.com/applications";
+const API_URL = "https://ics2ayth3a.execute-api.ap-south-1.amazonaws.com/applications";
 
 // State management
 let applications = [];
